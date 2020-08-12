@@ -25,7 +25,7 @@
     "/src"
   ],
   "dependencies": {
-    "@conacyt/nested-select": "^1.3.0",
+    "@conacyt/nested-select": "https://github.com/conacyt-arquitectura/nested-select-vuejs",
     "@fortawesome/fontawesome-svg-core": "1.2.15",
     "@fortawesome/free-solid-svg-icons": "5.7.2",
     "@fortawesome/vue-fontawesome": "0.1.5",
